@@ -2,7 +2,5 @@
     "validUsername" : "Admin",
     "validPassword" : "admin123",
     "invalidUsername" : "ADMIN56",
-    "invalidPassword" : "mimin99",
-    "emptyUsername" : "",
-    "emptyPassword" : ""
+    "invalidPassword" : "mimin99"
 }
